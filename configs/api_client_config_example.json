@@ -1,0 +1,9 @@
+{
+  "token": "PUT_YOUR_TOKEN_HERE",
+  "course_api_url": "https://www.cjcu3402.oo.gd/api_course_service.php",
+  "face_api_url": "https://www.cjcu3402.oo.gd/api_face_service.php",
+  "attendance_api_url": "https://www.cjcu3402.oo.gd/api_upload_attendance.php",
+  "uploads_base_url": "https://www.cjcu3402.oo.gd/uploads/raw_faces/",
+  "timeout_sec": 20,
+  "verify_ssl": true
+}
