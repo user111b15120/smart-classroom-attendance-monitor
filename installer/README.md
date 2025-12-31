@@ -62,7 +62,7 @@
 ## 下載與展示連結（Download & Demo）
 
 - **系統安裝檔 **：  
-  https://（你的 Google Drive / OneDrive 連結）
+  [https://（你的 Google Drive / OneDrive 連結）](https://drive.google.com/file/d/11pdft1pb1YbpeshRQJHyY5lpkNpUz6uW/view?usp=drive_link)
 
 - **成果展示 GitHub **：  
   https://github.com/user111b15120/smart-classroom-attendance-monitor
